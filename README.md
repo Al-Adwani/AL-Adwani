@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Odowani
+- 👋 Hi, I’m @Al-Adwani
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 
